@@ -1,5 +1,7 @@
-# udacity
-https://docs.google.com/document/d/1joDQNQl_4icYYm6tM_F9ch5hZEH_f157hlljSUGOLWs/pub?embedded=true
+# udacity deep learning project#2 Movie Trailer Website
+
+
+Guidance:
 Movie Trailer Website: Getting Started
 
 
@@ -48,3 +50,5 @@ When submitting your project, be sure to include a README file detailing how a u
 Include information, such as, how do they get your code (download, etc.), are there any requirements? Are there any commands that need to be run in order to run your application?
 A good example to get you started (provided by a current student on the forum) is the README file for bootstrap: https://github.com/twbs/bootstrap#quick-start
 While this example is a bit extensive, it gives you an idea of what the purpose of a README file would be. README files are great because when there are programs that have a lot of interconnecting files or are new, README files provide instructions to other users on how to run your program.
+
+refer to https://docs.google.com/document/d/1joDQNQl_4icYYm6tM_F9ch5hZEH_f157hlljSUGOLWs/pub?embedded=true
